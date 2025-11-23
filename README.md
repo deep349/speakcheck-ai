@@ -279,13 +279,5 @@ http://localhost:8501
 pytest backend/tests/test_scoring.py -q
 ```
 
-## Future Improvements
-
-* Semantic similarity using embeddings
-* Audio input and automatic speech transcription
-* Teacher dashboard for batch evaluation
-* Exportable PDF feedback reports
-* Multi-language support
-
 ## License
 XYZ
